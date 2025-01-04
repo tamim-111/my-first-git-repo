@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\Users\\conta\\Downloads\\Web Development\\1-3-2005\\hello.cpp","tests":[{"id":1735920437577,"input":"hi","output":"hi"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\conta\\Downloads\\Web Development\\1-3-2005\\hello.cpp","group":"local","local":true}
